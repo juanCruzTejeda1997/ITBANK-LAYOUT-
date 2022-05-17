@@ -1,7 +1,9 @@
-# ITBANK-LAYOUT-
+# Somos el grupo 3 del curso *Full Stack Developer* desarrollado por el ITBA
 
-Propuesta de Design Thinking a definir: 
-1. Estadisticas de Gastos dividido en rubros
-2. Managment de cuentas (emprendimiento/sueldo/ahorros) 
-3. Mejora del mecanismo de transferencias 
-4. Flexibilizar tramites de presencial a online
+## Empatía 
+Para la primer entrega del proyecto comenzamos a pensar en el cliente y cuales eran sus demandas en cuanto a diseño, comodidad y seguridad a la hora de acceder a sus homebankigs. Para ello realizamos encuestas en la plataforma de instagram donde las respuestas estaban representadas mayormente por jóvenes de entre 18 y 25 años.
+
+Luego, continuamos con el diseño de algunos prototipos en Figma, ...... *agregar*
+
+*agregar imagenes*
+
