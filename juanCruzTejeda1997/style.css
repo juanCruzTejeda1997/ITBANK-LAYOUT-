@@ -4,12 +4,10 @@
 
 .container{
     background-color: rgba(246, 238, 238, 1);
-    
     margin: 0 auto;
     width: 287px;
     height: 454px;
 }
-
 header{
     height: 145px;
     width: 287px;
