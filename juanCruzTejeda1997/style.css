@@ -110,19 +110,46 @@ header{
 .mrgn{ /*por alguna razon los margin-top no me están funcionando*/
     margin-top: 25px;
 }
-.card-foot{
-    width: 121px;
-    height: 78px;
-    border-radius: 4px;
-    background-color: white;
-    font-size: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 12px;
+.card-foot img{
+    height: 70px;
+    width: 110px;
+    margin: 10px;
+    border-radius: 15px;
+    border: solid black 1px;
     text-align: center;
+    
 }
 
 .display-foot{
     display: flex;
-    margin: 0 auto;
+    margin: 1;
+}
+
+.right {
+    float: left;
+}
+.column img{
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    border:solid black 1px;
+    border-radius: 10px; 
+}
+
+.column:hoder{
+
+}
+.containerbotones{
+    margin-top: 60px;
+    width: 300px;
+    height: 150px;
+}
+.column{
+    text-align: center;
+    
+    margin: 1px;
+    
+    padding: 1px ;
+    width: 80px;
+    
 }
