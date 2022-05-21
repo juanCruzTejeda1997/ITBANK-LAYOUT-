@@ -1,0 +1,44 @@
+.container{
+    height: 652px;
+    width:287px;
+    background-color:white;
+border:solid black 1px;
+margin: 0 auto;
+}
+
+.caja-superior{ 
+    height: 143px;
+    width: 259px;
+    background-color: grey;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 162px;
+    }
+
+.caja-inferior{
+    height: 254px;
+    width: 259px;
+    background-color: black;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 21px;
+}
+
+.grafico{
+  margin-right: 82px;
+  margin-left: 83px;
+  margin-top: 15px;
+}
+
+.caja-superior span{
+    font-size: 10px;
+    margin-left: 16px;
+    
+}
+
+.span-cajasup{
+margin: 0 auto;
+}
+
+
+
